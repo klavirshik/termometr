@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\bin\Debug\ClickCoordinates.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\bin\Debug\ClickCoordinates.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ClickCoordinates.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ClickCoordinates.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ClickCoordinates.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ClickCoordinates.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ClickCoordinates\obj\Debug\ClickCoordinates.pdb

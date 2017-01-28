@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\bin\Debug\Polar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\bin\Debug\Polar.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\RadarPoint.MainForm.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\RadarPoint.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\RadarPoint.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\Polar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\RadarPoint\obj\Debug\Polar.pdb

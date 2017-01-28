@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\bin\Debug\PointValues.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\bin\Debug\PointValues.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\PointValues.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\PointValues.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\PointValues.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\PointValues.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\PointValues\obj\Debug\PointValues.pdb

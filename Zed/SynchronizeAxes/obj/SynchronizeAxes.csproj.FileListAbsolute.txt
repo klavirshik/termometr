@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\bin\Debug\SynchronizeAxes.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\bin\Debug\SynchronizeAxes.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\SynchronizeAxes.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\SynchronizeAxes.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\SynchronizeAxes.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\SynchronizeAxes.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SynchronizeAxes\obj\Debug\SynchronizeAxes.pdb

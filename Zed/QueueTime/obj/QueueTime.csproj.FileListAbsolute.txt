@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\bin\Debug\QueueTime.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\bin\Debug\QueueTime.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\QueueTime.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\QueueTime.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\QueueTime.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\QueueTime.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\QueueTime\obj\Debug\QueueTime.pdb

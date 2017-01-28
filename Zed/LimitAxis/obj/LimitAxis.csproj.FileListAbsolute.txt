@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\bin\Debug\LimitAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\bin\Debug\LimitAxis.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\LimitAxis.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\LimitAxis.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\LimitAxis.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\LimitAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LimitAxis\obj\Debug\LimitAxis.pdb

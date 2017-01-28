@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\bin\Debug\ManyYAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\bin\Debug\ManyYAxis.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ManyYAxis.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ManyYAxis.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ManyYAxis.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ManyYAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ManyYAxis\obj\Debug\ManyYAxis.pdb

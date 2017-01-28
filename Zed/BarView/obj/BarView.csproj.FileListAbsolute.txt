@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\BarView.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\BarView.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\BarView.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\bin\Debug\BarView.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\bin\Debug\BarView.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\BarView.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarView\obj\Debug\BarView.pdb

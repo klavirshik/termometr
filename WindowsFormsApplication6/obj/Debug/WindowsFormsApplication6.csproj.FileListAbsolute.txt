@@ -1,0 +1,70 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Владимир\Dropbox\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Work\C#\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+D:\Work\C#\Ter\WindowsFormsApplication6\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Work\C#\Ter\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+D:\Work\C#\Thermometer\WindowsFormsApplication6\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Work\C#\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\bin\Debug\ZedGraph.dll
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Владимир\Downloads\Thermometer\Thermometer\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache

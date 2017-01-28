@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\bin\Debug\FontAngle.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\bin\Debug\FontAngle.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\FontAngle.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\FontAngle.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\FontAngle.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\FontAngle.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontAngle\obj\Debug\FontAngle.pdb

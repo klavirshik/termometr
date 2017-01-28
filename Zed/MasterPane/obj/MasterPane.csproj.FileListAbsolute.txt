@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\bin\Debug\MasterPane.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\bin\Debug\MasterPane.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\MasterPane.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\MasterPane.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\MasterPane.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\MasterPane.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\MasterPane\obj\Debug\MasterPane.pdb

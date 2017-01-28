@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\bin\Debug\Fill.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\bin\Debug\Fill.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\Fill.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\Fill.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\Fill.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\Fill.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Fill\obj\Debug\Fill.pdb

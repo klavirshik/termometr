@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\bin\Debug\Scatter.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\bin\Debug\Scatter.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\Scatter.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\Scatter.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\Scatter.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\Scatter.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Scatter\obj\Debug\Scatter.pdb

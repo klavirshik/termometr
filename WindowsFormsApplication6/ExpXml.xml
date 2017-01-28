@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<employees>
+  <employee>
+     <id>0</id>    //    порядковый номер задачи
+    <temp> </temp>    //    отдел
+    <davl> </davl>    //    должность
+    <date> </date>    //    имя   
+  </employee>
+</employees>

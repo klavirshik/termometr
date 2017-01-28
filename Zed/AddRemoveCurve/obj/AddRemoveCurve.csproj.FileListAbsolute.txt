@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\bin\Debug\AddRemoveCurve.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\bin\Debug\AddRemoveCurve.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\AddRemoveCurve.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\AddRemoveCurve.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\AddRemoveCurve.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\AddRemoveCurve.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AddRemoveCurve\obj\Debug\AddRemoveCurve.pdb

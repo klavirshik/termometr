@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\bin\Debug\LineBreak.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\bin\Debug\LineBreak.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\LineBreak.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\LineBreak.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\LineBreak.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\LineBreak.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LineBreak\obj\Debug\LineBreak.pdb

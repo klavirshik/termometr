@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\bin\Debug\FontSize.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\bin\Debug\FontSize.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\FontSize.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\FontSize.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\FontSize.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\FontSize.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontSize\obj\Debug\FontSize.pdb

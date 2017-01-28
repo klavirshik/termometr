@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\bin\Debug\FillBetween.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\bin\Debug\FillBetween.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\FillBetween.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\FillBetween.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\FillBetween.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\FillBetween.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FillBetween\obj\Debug\FillBetween.pdb

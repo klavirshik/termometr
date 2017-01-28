@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\bin\Debug\Selection.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\bin\Debug\Selection.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\Selection.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\Selection.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\Selection.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Selection\obj\Debug\Selection.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\bin\Debug\FontScaled.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\bin\Debug\FontScaled.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\FontScaled.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\FontScaled.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\FontScaled.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\FontScaled.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FontScaled\obj\Debug\FontScaled.pdb

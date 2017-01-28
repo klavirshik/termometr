@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\bin\Debug\BarWidth.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\bin\Debug\BarWidth.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\BarWidth.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\BarWidth.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\BarWidth.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\BarWidth.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarWidth\obj\Debug\BarWidth.pdb

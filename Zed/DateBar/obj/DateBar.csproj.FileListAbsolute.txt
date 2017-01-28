@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\bin\Debug\DateBar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\bin\Debug\DateBar.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\DateBar.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\DateBar.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\DateBar.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\DateBar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateBar\obj\Debug\DateBar.pdb

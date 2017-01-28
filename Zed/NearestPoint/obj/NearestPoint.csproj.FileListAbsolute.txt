@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\bin\Debug\NearestPoint.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\bin\Debug\NearestPoint.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\NearestPoint.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\NearestPoint.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\NearestPoint.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\NearestPoint.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NearestPoint\obj\Debug\NearestPoint.pdb

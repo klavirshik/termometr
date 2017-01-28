@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\bin\Debug\DateOrdinal.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\bin\Debug\DateOrdinal.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\DateOrdinal.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\DateOrdinal.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\DateOrdinal.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\DateOrdinal.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DateOrdinal\obj\Debug\DateOrdinal.pdb

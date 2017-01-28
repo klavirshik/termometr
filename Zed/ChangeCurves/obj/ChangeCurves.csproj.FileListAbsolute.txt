@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\bin\Debug\ChangeCurves.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\bin\Debug\ChangeCurves.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ChangeCurves.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ChangeCurves.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ChangeCurves.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ChangeCurves.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ChangeCurves\obj\Debug\ChangeCurves.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\bin\Debug\FilteredPointList.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\bin\Debug\FilteredPointList.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\FilteredList.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\FilteredList.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\FilteredList.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\FilteredPointList.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\FilteredPointList\obj\Debug\FilteredPointList.pdb

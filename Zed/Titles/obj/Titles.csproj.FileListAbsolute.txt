@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\bin\Debug\Titles.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\bin\Debug\Titles.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\Titles.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\Titles.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\Titles.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\Titles.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Titles\obj\Debug\Titles.pdb

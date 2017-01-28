@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\bin\Debug\LogAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\bin\Debug\LogAxis.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\LogAxis.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\LogAxis.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\LogAxis.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\LogAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LogAxis\obj\Debug\LogAxis.pdb

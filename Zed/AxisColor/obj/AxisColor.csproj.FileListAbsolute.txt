@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\bin\Debug\AxisColor.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\bin\Debug\AxisColor.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\AxisColor.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\AxisColor.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\AxisColor.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\AxisColor.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisColor\obj\Debug\AxisColor.pdb

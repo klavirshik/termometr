@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\bin\Debug\EditPoints.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\bin\Debug\EditPoints.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\EditPoints.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\EditPoints.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\EditPoints.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\EditPoints.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\EditPoints\obj\Debug\EditPoints.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\bin\Debug\BarHorizontal.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\bin\Debug\BarHorizontal.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\BarHorizontal.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\BarHorizontal.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\BarHorizontal.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\BarHorizontal.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarHorizontal\obj\Debug\BarHorizontal.pdb

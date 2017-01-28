@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\bin\Debug\NoName2.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\bin\Debug\NoName2.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\NoName2.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\NoName2.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\NoName2.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\NoName2.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\NoName2\obj\Debug\NoName2.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\bin\Debug\TextBackground.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\bin\Debug\TextBackground.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\TextBackground.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\TextBackground.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\TextBackground.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\TextBackground.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\TextBackground\obj\Debug\TextBackground.pdb

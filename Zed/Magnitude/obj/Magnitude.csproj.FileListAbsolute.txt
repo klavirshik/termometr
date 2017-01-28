@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\bin\Debug\Magnitude.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\bin\Debug\Magnitude.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\Magnitude.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\Magnitude.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\Magnitude.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\Magnitude.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\Magnitude\obj\Debug\Magnitude.pdb

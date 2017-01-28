@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\bin\Debug\WindowsCoord.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\bin\Debug\WindowsCoord.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\WindowsCoord.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\WindowsCoord.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\WindowsCoord.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\WindowsCoord.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\WindowsCoord\obj\Debug\WindowsCoord.pdb

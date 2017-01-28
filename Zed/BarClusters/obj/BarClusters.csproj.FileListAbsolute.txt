@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\bin\Debug\BarClusters.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\bin\Debug\BarClusters.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\BarClusters.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\BarClusters.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\BarClusters.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\BarClusters.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarClusters\obj\Debug\BarClusters.pdb

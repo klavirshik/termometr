@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\bin\Debug\HideXAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\bin\Debug\HideXAxis.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\ZeroLine.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\ZeroLine.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\ZeroLine.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\HideXAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ZeroLine\obj\Debug\HideXAxis.pdb

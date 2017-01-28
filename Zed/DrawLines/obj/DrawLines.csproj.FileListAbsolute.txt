@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\bin\Debug\DrawLines.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\bin\Debug\DrawLines.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\DrawLines.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\DrawLines.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\DrawLines\obj\Debug\DrawLines.pdb

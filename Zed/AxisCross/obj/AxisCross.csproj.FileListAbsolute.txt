@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\MoveAxis.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\MoveAxis.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\AxisCross.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\bin\Debug\MoveAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\bin\Debug\MoveAxis.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\MoveAxis.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisCross\obj\Debug\MoveAxis.pdb

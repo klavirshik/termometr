@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ErrorBar.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ErrorBar.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ErrorBar.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\bin\Debug\ErrorBar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\bin\Debug\ErrorBar.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ErrorBar.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ErrorBar\obj\Debug\ErrorBar.pdb

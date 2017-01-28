@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\bin\Debug\StackLine.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\bin\Debug\StackLine.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\StackLine.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\StackLine.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\StackLine.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\StackLine.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\StackLine\obj\Debug\StackLine.pdb

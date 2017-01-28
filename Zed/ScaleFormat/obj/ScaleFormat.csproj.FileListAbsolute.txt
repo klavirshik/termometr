@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\bin\Debug\ScaleFormat.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\bin\Debug\ScaleFormat.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ScaleFormat.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ScaleFormat.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ScaleFormat.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ScaleFormat.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ScaleFormat\obj\Debug\ScaleFormat.pdb

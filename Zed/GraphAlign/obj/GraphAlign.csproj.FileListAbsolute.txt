@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\bin\Debug\GraphAlign.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\bin\Debug\GraphAlign.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\GraphAlign.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\GraphAlign.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\GraphAlign.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\GraphAlign.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\GraphAlign\obj\Debug\GraphAlign.pdb

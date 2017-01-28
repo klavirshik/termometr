@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\LegendPosition.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\LegendPosition.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\LegendPosition.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\bin\Debug\LegendPosition.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\bin\Debug\LegendPosition.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\LegendPosition.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\LegendPosition\obj\Debug\LegendPosition.pdb

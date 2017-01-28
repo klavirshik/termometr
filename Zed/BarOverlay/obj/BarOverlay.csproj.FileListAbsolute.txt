@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\bin\Debug\BarOverlay.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\bin\Debug\BarOverlay.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\BarOverlay.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\BarOverlay.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\BarOverlay.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\BarOverlay.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\BarOverlay\obj\Debug\BarOverlay.pdb

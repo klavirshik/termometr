@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\bin\Debug\SeveralGraphs.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\bin\Debug\SeveralGraphs.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\SeveralGraphs.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\SeveralGraphs.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\SeveralGraphs.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\SeveralGraphs.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\SeveralGraphs\obj\Debug\SeveralGraphs.pdb

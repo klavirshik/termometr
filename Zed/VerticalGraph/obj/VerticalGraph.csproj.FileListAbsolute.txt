@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\bin\Debug\VerticalGraph.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\bin\Debug\VerticalGraph.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\VerticalGraph.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\VerticalGraph.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\VerticalGraph.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\VerticalGraph.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\VerticalGraph\obj\Debug\VerticalGraph.pdb

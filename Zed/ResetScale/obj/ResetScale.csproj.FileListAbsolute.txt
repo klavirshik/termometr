@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\bin\Debug\ResetScale.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\bin\Debug\ResetScale.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResetScale.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResetScale.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResetScale.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResetScale.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\ResetScale\obj\Debug\ResetScale.pdb

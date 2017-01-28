@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\bin\Debug\CursorChange.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\bin\Debug\CursorChange.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\CursorChange.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\CursorChange.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\CursorChange.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\CursorChange.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\CursorChange\obj\Debug\CursorChange.pdb

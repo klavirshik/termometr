@@ -1,0 +1,9 @@
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\bin\Debug\AxisTicks.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\bin\Debug\AxisTicks.pdb
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\bin\Debug\ZedGraph.dll
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\AxisTicks.Form1.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\AxisTicks.Properties.Resources.resources
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\AxisTicks.csproj.GenerateResource.Cache
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\AxisTicks.exe
+C:\Users\Jenyay\Documents\projects\zedgraph_howto\AxisTicks\obj\Debug\AxisTicks.pdb
